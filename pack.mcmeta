@@ -1,0 +1,7 @@
+"pack": {
+	"pack_format": 34,
+"min_format": 34,
+"max_format": 75,
+	"supported_formats": {"min_inclusive": 34, "max_inclusive": 75},
+	"description": "\u00A7e\u00A7l ADD-ON \u00A78 fixes 16 craft so it works correctly for 1.21"
+}
